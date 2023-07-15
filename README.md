@@ -1,5 +1,7 @@
 ## Hi i'm Hyeon duck
 
+i'm interested in computer vision
+
 ### Technologies Used
 
 Python
