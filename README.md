@@ -20,4 +20,4 @@ html, css, js
 
 2021.08.02 ~ 2021.12.27 Naver boost Camp 2nd (nlp)
 
-2022.10.01 ~ 2023.05.31 elpknew (system eng, cv) object detect
+2022.10.01 ~ 2023.05.31 elpknew (system eng, cv) object detection
