@@ -27,3 +27,6 @@ html, css, js and so on...
 2022.10.01 ~ 2023.05.31 elpknew (system eng, cv) object detection
 
 2023.09.09 ~ 2023.12.28  KOSA (Java Spring, Vue.Js) Msa Fullstack education
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlagusejr)](https://github.com/tlagusejr/github-readme-stats)
