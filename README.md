@@ -32,7 +32,10 @@ html, css, js and so on...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlagusejr)](https://github.com/tlagusejr/github-readme-stats)
 
 ## Project
-//KOSA
+
+### KOSA
 https://github.com/kosaThirdJo/selectStar
 https://github.com/JustThree/webtaku
-//Naver boostcamp
+
+### Naver boostcamp aitech 2
+https://github.com/boostcampaitech2/final-project-level3-nlp-10
