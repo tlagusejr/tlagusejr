@@ -10,8 +10,6 @@ Java
 
 Pytorch
 
-Opencv
-
 Spring
 
 ### Beginner
