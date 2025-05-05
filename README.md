@@ -36,5 +36,5 @@ https://github.com/kosaThirdJo/selectStar
 
 https://github.com/JustThree/webtaku
 
-### Naver boostcamp aitech 2
+### naver boostcamp ai-tech 2
 https://github.com/boostcampaitech2/final-project-level3-nlp-10
