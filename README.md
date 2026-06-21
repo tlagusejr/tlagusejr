@@ -3,10 +3,7 @@
 백엔드 개발자 심현덕입니다. 블루 비즈랩에 입사하여 고객사 plm 구현 및 유지 보수를 진행 하고 있습니다.
 
 ### 기술
-Java
-Spring
-Python
-Pytorch
+Java, Spring, Vue.js, Python, Pytorch
 
 ## Experience
 
